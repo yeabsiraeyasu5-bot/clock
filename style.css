@@ -1,6 +1,7 @@
 h1 {
     position: absolute;
     top: 50px;
+    font-size: 50px;
     color: white;
 }
 body {
@@ -26,7 +27,7 @@ body {
     position: absolute;
     bottom: 50px;
     color: #38bdf8;
-    font-size: 18px;
+    font-size: 38px;
     max-width: 500px;
     text-align: center;
 }
